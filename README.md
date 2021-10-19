@@ -1,7 +1,3 @@
 # BigData
 
-First part:
-
--Introduction of the problem
--Data Understanding 
-
+Big Data Analytics Report
